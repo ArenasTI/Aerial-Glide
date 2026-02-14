@@ -31,4 +31,4 @@
 - En configuración inicial y estructura del proyecto
 
 ## Wiki del Proyecto
-[Ver Propuesta del Proyecto – Aerial Glide](https://github.com/ArenasTI/Aerial-Glide/wiki/Proyecto--Aerial-Glide)
+[Ver Propuesta del Proyecto – Aerial Glide](https://github.com/ArenasTI/Aerial-Glide/wiki/Proyecto-%E2%80%93-Aerial-Glide)
