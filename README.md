@@ -1,6 +1,6 @@
 # Aerial Glide
 
-**Aerial Glide** es un juego rítmico plataformero en 2D multijugador, donde los jugadores compiten en una carrera, tiene controles bastante simples y está diseñado para ofrecer una experiencia tan competitiva como divertida.
+**Aerial Glide** es un juego en 2D multijugador, donde los jugadores compiten en una carrera, tiene controles bastante simples y está diseñado para ofrecer una experiencia tan competitiva como divertida.
 
 ## Integrantes 
 
